@@ -44,17 +44,8 @@
 
 - [x] Установить глобально через npm (`codewhale 0.8.53`)
 - [x] Проверить установку
-- [ ] Привязать DeepSeek API-ключ:
-
-```bash
-codewhale auth set --provider deepseek
-```
-
-- [ ] Проверить, что всё работает:
-
-```bash
-codewhale doctor
-```
+- [x] Привязать DeepSeek API-ключ
+- [x] Проверить, что всё работает (`codewhale doctor`)
 
 ---
 
