@@ -59,11 +59,11 @@ codewhale "Настрой git глобально: имя пользовател�
 
 ---
 
-## 🖥 Настройка AI в Zed ← ты здесь
+## 🖥 Настройка AI в Zed
 
 - [x] Установить Zed
-- [ ] Открыть Zed → **Command (⌘) + ,** (настройки)
-- [ ] В секцию `agent_servers` добавить DeepSeek
+- [x] Открыть Zed → **Command (⌘) + ,** (настройки)
+- [x] В секцию `agent_servers` добавить DeepSeek
 
 ```json
 {
