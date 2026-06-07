@@ -51,7 +51,7 @@
 
 ## ⚙️ Настройка Git (имя + email)
 
-- [ ] Попросить CodeWhale настроить git:
+- [x] Попросить CodeWhale настроить git (имя + email)
 
 ```bash
 codewhale "Настрой git глобально: имя пользователя [ТВОЁ ИМЯ], email [ТВОЙ EMAIL]. Выполни команды git config --global. Имя и email должны совпадать с GitHub аккаунтом."
